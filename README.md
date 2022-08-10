@@ -6,6 +6,8 @@ The purpose of this analysis is to convince investors that the bike-sharing prog
 -	The number of bike trips for all riders for each hour of each day of the week, categorized by gender
 -	The number of bike trips for each type of use for each day of the week, categorized by gender
 
+[Link to Dashboard](https://public.tableau.com/views/BikesharingAssignment/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Results
 ### Start/End Locations
 <img width="628" alt="Start End Locations" src="https://user-images.githubusercontent.com/64383146/183821814-b50c6207-ea99-4208-97c1-8efe29e61763.png">
@@ -27,3 +29,10 @@ This graph shows the peak usage times of the bikes by gender. The highest number
 <img width="505" alt="User Trips by Gender" src="https://user-images.githubusercontent.com/64383146/183821920-c31f8cfd-913c-4b8d-9050-e98cf2a1d03f.png">
 
 This graph is a heatmap indicating the number of bike trips by gender. It also breaks it up into user types, showing how many people who use it are customers and how many people who use it are subscribers. We can see that a majority of riders are males who are subscribers. 
+
+## Summary
+In conclusion, these charts have given us an insight on what can be expected if this bike-sharing program was to be implemented in Des Moines. We are able to visualize the possible peak times and also get a grasp on who our target market it. Although it is also important to note that New York is a city where using anything but a car is ideal, so if it’s a similar situation in Des Moines, then implementing this program would be successful and yield similar results as the ones we see in New York.
+### Additional Visualizations
+1.	In order to better understand who the target audience is, we could create a chart that breaks down the users by age and gender. This way we know who exactly is using the bike-sharing program and market to them accordingly. 
+2.	In order to determine the primary use of the bikes, we could create a chart that can show to show the distance travelled within each trip by the areas. This would allow us to figure out the most popluar routes and determine the reason the bikes are being used. 
+
